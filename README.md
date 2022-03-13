@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nisargshukla25
 - 👀 I’m interested in photography
-- 🌱 I’m currently learning Devo-Ops
+- 🌱 I’m currently learning DevOps
 
 
 <!---
